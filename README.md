@@ -1,5 +1,5 @@
 # React Quiz App 
-Description
+A React Application which allows a user to choose a category and select an answer from question data which will be pulled from Open Trivia database using Trivia API.
 
 ## Demo
 <img src="./demo/demo.gif" width="400">
